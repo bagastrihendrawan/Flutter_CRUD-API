@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>728869985472-kqta55qnitmlt74n0nrjbmvab2b0snsm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.728869985472-kqta55qnitmlt74n0nrjbmvab2b0snsm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBtqxqNElM8m1AaJhtbRy86ZuNQuvw3gs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>728869985472</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myFirstApp</string>
+	<key>PROJECT_ID</key>
+	<string>cobafire-e80ff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cobafire-e80ff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:728869985472:ios:d5f512c67517448b216125</string>
+</dict>
+</plist>
